@@ -1,5 +1,5 @@
 # Database-Schema
-I have designed more than a few database schemas in my time. 
+I have designed more than a few database schemas in my time. I don't know how helpful this will be to anyone, but you never know.
 
 ## Multiplayer Game System
 ![alt tag](Hades.jpg)
